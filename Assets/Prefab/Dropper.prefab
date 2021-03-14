@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 6162992492049930815}
   - component: {fileID: 6162992492049930692}
   - component: {fileID: 6162992492049930691}
+  - component: {fileID: 664623136}
   m_Layer: 0
   m_Name: Dropper
   m_TagString: Untagged
@@ -126,3 +127,16 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &664623136
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6162992492049930814}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adfa9a38790481c49adee9e90f513016, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hitMaterial: {fileID: 2100000, guid: 240c4c320b83bb347a83b1e9f476a793, type: 2}
