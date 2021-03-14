@@ -1,2 +1,2 @@
 # obstacle-course
- 3D obstacle course. Built using Unity!
+ Obstacle course. Built using Unity!
